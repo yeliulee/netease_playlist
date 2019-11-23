@@ -2,6 +2,11 @@
   "name": "blog-web-music",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "email": "yeliulee@qq.com",
+    "name": "夜琉璃 | yeliulee",
+    "url": "https://www.yeliulee.com/"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
