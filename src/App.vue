@@ -171,11 +171,6 @@ export default {
       this.audio.currentTime = this.musicProgress;
     }
   },
-  watch: {
-    audio: function(audio) {
-      console.log(JSON.stringify(audio));
-    }
-  },
   mounted() {
     this.audio.loop = false;
     this.fetchMusic();
