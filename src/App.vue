@@ -287,6 +287,10 @@ body {
   color: #54576f;
   font-size: 17px;
   font-weight: bold;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .container-artist-name {
   color: #acaebd;
