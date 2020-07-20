@@ -9,15 +9,6 @@
 [https://www.yeliulee.com/music/](https://www.yeliulee.com/music/)
 
 
-### 琉璃君的博客地址
-[https://www.yeliulee.com](https://www.yeliulee.com)
-
-
-### 来一起水群
-代码信条QQ群号：[384300653](https://jq.qq.com/?_wv=1027&k=56SqS7b)
-
-加群链接：[https://jq.qq.com/?_wv=1027&k=56SqS7b](https://jq.qq.com/?_wv=1027&k=56SqS7b)
-
 ## Project setup
 ```
 yarn install
